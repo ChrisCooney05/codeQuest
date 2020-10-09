@@ -17,6 +17,8 @@ function TextArea(props) {
         </div>
       </div>
       <br />
+      Press X to mute
+      <br />
       <textarea id="userInput" name="name" rows="14" cols="30" style={{ backgroundColor: 'rgba(256, 256, 256, 0.3)', color: 'white' }}></textarea>
       <br />
       <button id="play" type="submit">
